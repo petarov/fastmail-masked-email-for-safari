@@ -4,4 +4,4 @@ Safari extension for generating [Fastmail](https://www.fastmail.com/) masked ema
 
 This is a support repository that acts as an issue tracker. 
 
-Go to [Issues](./issues) to open a new issue.
+Go to [Issues](/issues) to open a new issue.
